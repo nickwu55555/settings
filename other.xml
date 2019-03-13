@@ -1,0 +1,70 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="63340" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.11.4" last-modified="1534311470000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="183-203-111-255,,,34-0-23-255,,,255-208-134-255,,,180-68-255-255,,,97-79-255-255,,,0-255-23-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.73725057" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.73322934" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="scop" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="17" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="PLUGIN_FILTER" value="sv&#10;toolbox&#10;SVN&#10;eslint&#10;svh" />
+    <property name="SearchEveryWhereHistory" value="费搜you&#10;index.less:61&#10;showmo&#10;btn-&#10;btn-in" />
+    <property name="SettingsSearchHistory" value="Tab,Indent&#10;detect indent" />
+    <property name="SplitFileEditor.Proportion" value="0.33195707" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="MONOKAI" />
+    <property name="emmet.last.update.abbreviations" value="div" />
+    <property name="emmet.recent.update.abbreviations" value="div" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="file.chooser.recent.files" value="D:/workspace_res/csrp-emp-res&#10;D:/workspace_res/csrp-safe-res&#10;D:/nodemodules/node_modules/eslint&#10;D:/nodemodules&#10;D:/nodemodules/lessc&#10;D:/nodemodules/lessc.cmd&#10;D:/nodejs/node_modules/npm/lessc.cmd&#10;D:/workspace_res&#10;D:/res_workspace/csrp-safe-res&#10;D:/res_workspace&#10;D:/res_workspace/checkout-project/csrp-safe-res&#10;D:/res_workspace/checkout-project&#10;D:/wbstormWS&#10;C:/Users/Dongdong/AppData/Roaming/Subversion&#10;D:/HBworkspace&#10;D:/HBworkspace/testVue&#10;D:/wsVue&#10;D:/&#10;D:/WpSystem&#10;D:/电&#10;D:/payloads&#10;D:/ddzs&#10;C:/Users/Dongdong&#10;C:/&#10;D:/HBworkspace/myProject&#10;D:/GitHub/bootstrap-fileinput&#10;C:/Users/Dongdong/Desktop/jQuery-File-Upload-9.22.0" />
+    <property name="file.gist.reindex.count" value="36753" />
+    <property name="fileTypeChangedCounter" value="41" />
+    <property name="ideavim.statistics.timestamp" value="1536542920400" />
+    <property name="js.chrome.debugger.port" value="52976" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="GENERIC_SERVER_ERROR_OR_WARNING" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.splitter.proportion" value="0.7398374" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://218.247.237.37/svn/gdupc/code/" />
+        <option value="https://218.247.237.37/svn/csrp/pro/anquan" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://218.247.237.37/svn/gdupc/code/" />
+        <option value="https://218.247.237.37/svn/csrp/pro/anquan" />
+        <option value="https://218.247.237.37/svn/csrp/pro/sh/10016626/csrp-sh-cal" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>

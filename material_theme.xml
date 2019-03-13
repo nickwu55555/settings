@@ -1,0 +1,17 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabOpacity" value="3" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="accentColor" value="ff9800" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-382a968c:165b20f9828:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>
