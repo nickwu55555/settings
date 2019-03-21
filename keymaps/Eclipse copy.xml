@@ -1,5 +1,1 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt w" />
-  </action>
-</keymap>
+<keymap version="1" name="Eclipse copy" parent="Eclipse" />
