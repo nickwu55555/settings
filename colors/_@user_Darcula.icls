@@ -3,7 +3,7 @@
     <property name="created">2019-03-01T10:50:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2019-07-18T15:14:46</property>
+    <property name="modified">2019-07-18T15:36:27</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -21,6 +21,13 @@
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="f6f7ff" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
   </attributes>
