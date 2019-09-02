@@ -3,4 +3,10 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <mouse-shortcut keystroke="control alt button1" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
 </keymap>
