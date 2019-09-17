@@ -1,8 +1,5 @@
 <application>
   <component name="RefactoringSettings">
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
-    <option name="RENAME_INHERITORS" value="false" />
-    <option name="RENAME_VARIABLES" value="false" />
-    <option name="RENAME_TESTS" value="false" />
   </component>
 </application>
