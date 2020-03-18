@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".vue" type="HTML" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="kotlin_module" type="PLAIN_TEXT" />
     </extensionMap>
