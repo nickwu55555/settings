@@ -1,0 +1,9 @@
+<templateSet group="SunnyTemplate">
+  <template name="mc" value="/**&#10; * @name $name$&#10; * @createTime： $DATE$ $TIME$&#10; * @param $params$ &#10; * @author 武金辉&#10; * @return $return$&#10; */&#10;" description="Method Comment Template" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
