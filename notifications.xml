@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
+  </component>
+</application>
