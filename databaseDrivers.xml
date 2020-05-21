@@ -127,5 +127,6 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
+    <driver id="dm.jdbc.driver.DmDriver" name="dm.jdbc.driver.DmDriver" driver-class="dm.jdbc.driver.DmDriver" />
   </component>
 </application>
