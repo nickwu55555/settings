@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="D:/backEndWorkspace/csrp-cec-resource-das" firstStartUp="false" />
     <entry projectName="D:/backEndWorkspace/csrp-cec-sync-das" firstStartUp="false" />
     <entry projectName="D:/backEndWorkspace/eage-mdm" firstStartUp="false" />
     <entry projectName="D:/frontWorkspace/eage-mdm-resolve" firstStartUp="false" />
