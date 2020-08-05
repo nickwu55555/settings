@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'eage-mdm'" />
+    <option name="defaultScopeName" value="Project 'eage-mdm'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'eage-mdm'" />
   </component>
 </application>
