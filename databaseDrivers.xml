@@ -135,6 +135,16 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
-    <driver id="dm.jdbc.driver.DmDriver" name="dm.jdbc.driver.DmDriver" driver-class="dm.jdbc.driver.DmDriver" />
+    <driver id="dm.jdbc.driver.DmDriver" name="dm.jdbc.driver.DmDriver" driver-class="dm.jdbc.driver.DmDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://D:/JDBC_DRIVER/dm7_jdbc-3.0.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
