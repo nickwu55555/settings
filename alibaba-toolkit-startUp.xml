@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/backEndWorkspace/csrp-cec-crawler-das" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/csrp-cec-joint-das" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/csrp-cec-report-das" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/csrp-cec-resource-das" startUpFlag="FIRST" />
