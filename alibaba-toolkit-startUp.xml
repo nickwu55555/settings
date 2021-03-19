@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/AppData/Local/Temp/test.html" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/csrp-cec-crawler-das" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/csrp-cec-joint-das" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/csrp-cec-report-das" startUpFlag="FIRST" />
@@ -14,6 +15,7 @@
     <entry projectPath="D:/backEndWorkspace/eage-mdm/eage-mdm-system" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/eage-prd-mdm-sso" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/eage-prd-resource-cas" startUpFlag="FIRST" />
+    <entry projectPath="D:/backEndWorkspace/file-transfer" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/scyy" startUpFlag="FIRST" />
     <entry projectPath="D:/backEndWorkspace/test" startUpFlag="FIRST" />
     <entry projectPath="D:/eage-mdm" startUpFlag="FIRST" />
