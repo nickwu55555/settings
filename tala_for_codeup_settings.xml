@@ -25,5 +25,6 @@
         <entry key="TALA_TASK_VIEW" value="true" />
       </map>
     </option>
+    <option name="enableIssues" value="false" />
   </component>
 </application>

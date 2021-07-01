@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://116.196.85.169:34010" />
+          <token>dfc8df9fdfcedf9edfcfdf93dfcbdf9ddfcfdfccdfc9df98df92dfccdf9adf93df9bdf9bdfcfdf99df9fdfc8df9cdfcfdfcbdf93dfccdf9adfccdfcfdfcedf9cdfc8dfcfdfccdf9adf9fdf98df98df9a</token>
+          <option name="name" value="inca_sonarqube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
