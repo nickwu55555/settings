@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="Json Parser" shouldLog="false" />
     <notification groupId="mybatisCodeHelper" shouldLog="false" />
     <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
   </component>
