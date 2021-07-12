@@ -1,7 +1,6 @@
 <application>
   <component name="DebuggerSettings">
     <option name="DEBUGGER_TRANSPORT" value="1" />
-    <option name="HOTSWAP_IN_BACKGROUND" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
