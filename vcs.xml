@@ -42,6 +42,10 @@
           <option name="url" value="https://git.inca.com.cn/incacloud/cloud_manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.inca.com.cn/incacloud/oms_thirderp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace_res" />
