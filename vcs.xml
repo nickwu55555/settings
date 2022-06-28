@@ -58,6 +58,10 @@
           <option name="url" value="https://cqpgitlab.cq-p.com.cn/cqoms/9555-cqp-oms-zhzyyy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://cqpgitlab.cq-p.com.cn/cqoms/9555-cqp-oms-hzzyyy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\chongyao_project" />
