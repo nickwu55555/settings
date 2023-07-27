@@ -6,11 +6,5 @@
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.9.200.219:3306/incacloud</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="MySQL - @inca_dev [2]" uuid="67d19593-e383-4c6a-880e-88994b9159fc">
-      <driver-ref>mysql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.9.200.219:3306/inca_stock</jdbc-url>
-    </data-source>
   </component>
 </application>
